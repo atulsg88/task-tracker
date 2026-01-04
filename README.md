@@ -1,7 +1,9 @@
 ✨ App Features
 Two-Screen Navigation: Separate interfaces for viewing the task list and entering new task details.
 
+
 Detailed Task Entry: Each task captures both a Title and a Short Description.
+
 
 Task Management:
 
@@ -13,7 +15,9 @@ Delete: Remove tasks instantly using a dedicated delete button.
 
 Persistent Storage: Powered by Hive DB to ensure your data is saved locally on the device and persists even after the app is closed.
 
+
 🛠️ Tech Stack & Packages
+
 Framework: Flutter
 
 State Management: setState() (Basic State Management)
@@ -22,7 +26,9 @@ Database: hive & hive_flutter
 
 Icons: Material Icons
 
+
 🚀 How to Run the Project
+
 Clone the Repository:
 
 Bash
@@ -43,7 +49,10 @@ Run the App: Ensure you have an emulator running or a physical device connected:
 Bash
 
 flutter run
+
+
 🧠 What I Learned
+
 While building this project, I gained a deeper understanding of:
 
 Navigation & Routing: Implementing Navigator.push and Navigator.pop to move between screens while successfully passing data objects back and forth.
