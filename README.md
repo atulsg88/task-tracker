@@ -18,4 +18,4 @@ A clean and simple Task Management application built with Flutter. This project 
 1. **Prerequisites**: Ensure you have the Flutter SDK installed on your machine.
 2. **Clone the Repo**:
    ```bash
-   git clone [YOUR_GITHUB_LINK_HERE]
+   git clone [https://github.com/atulsg88/task-tracker.git]
